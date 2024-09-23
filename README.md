@@ -1,4 +1,4 @@
-# CS4485-Team-9-5G-Data-Project
+# CS Project - 5G Data Analysis (Prof. Anand Gupta) - Team 9
 
 ## Overview
 Refer to the [software requirements specification](./T9%Performance%metrics-Accounting%Billing%SRS.pdf).
@@ -10,5 +10,8 @@ Refer to the [software requirements specification](./T9%Performance%metrics-Acco
 * Ethan Sun
 
 ## Use Cases
-* Performance Metrics
-* Accounting Management
+1. Performance Metrics
+2. Accounting Management
+
+## Technologies Used
+-TBA
