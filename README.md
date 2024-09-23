@@ -1,11 +1,14 @@
 # CS4485-Team-9-5G-Data-Project
-Refer to [Software Requirements Specification] (T9 Performance metrics-Accounting Billing SRS.pdf) <br/>
-## Team Members <br/>
+
+## Overview
+Refer to the [software requirements specification] (./T9%Performance%metrics-Accounting%Billing%SRS.pdf)
+
+## Team Members
 * Chen Cheng
 * Changyub Lee
 * Hector Macias
 * Ethan Sun
 
-## Use Cases <br/>
-Performance Metrics <br/>
-Accounting Management
+## Use Cases
+* Performance Metrics
+* Accounting Management
