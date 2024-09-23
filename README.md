@@ -2,7 +2,8 @@
 
 ## Overview
 UTDallas CS Project - Prof. Anand Gupta <br/>
-Refer to the [software requirements specification](./T9%Performance%metrics-Accounting%Billing%SRS.pdf).
+Refer to the software requirements specification. <br/>
+(To Do: add link to one pager)
 
 ## Team Members
 * Chen Cheng
