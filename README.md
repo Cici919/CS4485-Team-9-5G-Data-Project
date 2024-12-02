@@ -19,13 +19,8 @@ Refer to the software requirements specification. <br/>
 -TBA
 
 ## to run
-go into prom-mage folder and read the readme
-navigate to an empty directory
+download or colone the project file into your local
+go into prom-mage folder 
 
-run these commands:
-
-docker volume create prom-mage
-
-docker compose build
-
-docker compose up -d
+run this commands:
+docker-compose up --build
