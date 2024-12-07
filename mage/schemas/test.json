@@ -1,4 +1,19 @@
 {
   "sent_bytes": "sent_bytes",
-  "received_bytes": "received_bytes"
+  "received_bytes": "received_bytes",
+  "cpu_percent": "cpu_percent",
+  "mem_used_bytes": "mem_used_bytes",
+  "mem_total": "mem_total",
+  "disk_percent": "disk_percent",
+  "disk_total": "disk_total",
+  "machine_sent_bytes": "machine_sent_bytes",
+  "machine_received_bytes": "machine_received_bytes",
+  "radio_connected": "radio_connected",
+  "devices_registered": "devices_registered",
+  "devices_connected": "devices_connected",
+  "ue_pdn_connections_success": "ue_pdn_connections_success",
+  "ue_pdn_connections_released": "ue_pdn_connections_released",
+  "link_success_rate_5g": "link_success_rate_5g",
+  "allocate_ip_success_5g": "allocate_ip_success_5g",
+  "release_ip_success_5g": "release_ip_success_5g"
 }
