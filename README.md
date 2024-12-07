@@ -37,7 +37,7 @@ Refer to the software requirements specification. <br/>
  2. Ensure Docker Server is Running
     Before running the project, ensure that your Docker server is up and running.
     You can start your Docker server by clicking the shortcut on your desktop.
- 3. Install Necessary Dependencies
+ 4. Install Necessary Dependencies
     Make sure all necessary dependencies and react-scripts are properly installed.
     React-scripts is part of the Create React App setup and is essential for your React project.
     Dependencies (such as JavaScript files, CSS files, or assets) make sure your project to function correctly.
