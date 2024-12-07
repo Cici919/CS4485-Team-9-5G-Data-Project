@@ -69,8 +69,8 @@ dashboards powered by Prometheus for effective data visualization.
   
 ### III. prom-kafka Branch (Only Backend)
 Follow the Readme file in prom-kafka branch to run the code.
-## Challenges and Future Considerations:<br>
+## Challenges and Future Considerations<br>
 Managing real-time data flow, ensuring smooth integration between Kafka, Prometheus, and Mage, and handling Auth0 authentication presented significant challenges. To address these, we utilized Dockerized environments and relied on comprehensive troubleshooting through documentation.
 
-## Future Enhancements:<br>
+## Future Enhancements<br>
 Looking ahead, incorporating predictive maintenance and infrastructure monitoring using machine learning is a potential area for further development, which could enhance the system’s capability to proactively detect and resolve network issues.
