@@ -1,7 +1,0 @@
-global:
-  scrape_interval: 5m  # Set to match your data generation frequency
-
-scrape_configs:
-  - job_name: 'radio_exporter'
-    static_configs:
-      - targets: ['radio_exporter:8081']
