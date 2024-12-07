@@ -16,8 +16,8 @@ Refer to the software requirements specification. <br/>
 2. Accounting Management
 
 ## Technologies Used
--Docker for containerization
--Node.js for the frontend
--Kafka for data generation and consumption
--Prometheus for data scraping
--Mage.ai for building and managing machine learning pipelines
+- **Docker** for containerization  
+- **Node.js** for the frontend  
+- **Kafka** for data generation and consumption  
+- **Prometheus** for data scraping  
+- **Mage.ai** for building and managing machine learning pipelines
