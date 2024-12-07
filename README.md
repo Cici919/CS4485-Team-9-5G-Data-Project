@@ -24,12 +24,12 @@ Refer to the software requirements specification. <br/>
 
 ## How to Run the Different Version the Code
 
-# Main Branch Code (With simple Auth0 Authentication)
-* 1. Clone or copy our team's repository to your local machine.
-* 2. Open your command prompt or terminal.
-* 3. Navigate to the project directory where the docker-compose.yml file is located.
-* 4. Run the following command to build and start the containers:
-*      docker-compose up --build
+### Main Branch Code (With simple Auth0 Authentication)
+ 1. Clone or copy our team's repository to your local machine.
+ 2. Open your command prompt or terminal.
+ 3. Navigate to the project directory where the docker-compose.yml file is located.
+ 4. Run the following command to build and start the containers:
+     docker-compose up --build
 
 # Code-After-Integration Branch (Full satck code from Team 7)
 * 1. Clone the project folder from the Code-After-Integration branch to your local machine.
