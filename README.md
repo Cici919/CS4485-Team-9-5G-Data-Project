@@ -24,14 +24,14 @@ Refer to the software requirements specification. <br/>
 
 ## How to Run the Different Version the Code
 
-### Main Branch Code (With simple Auth0 Authentication)
+### I. Main Branch (With simple Auth0 Authentication)
  1. Clone or copy our team's repository to your local machine.
  2. Open your command prompt or terminal.
  3. Navigate to the project directory where the docker-compose.yml file is located.
  4. Run the following command to build and start the containers:
-*      docker-compose up --build
+ *     docker-compose up --build
 
-### Code-After-Integration Branch (Full satck code from Team 7)
+### II. Code-After-Integration Branch (Full satck code from Team 7)
  1. Clone the project folder from the Code-After-Integration branch to your local machine.
  2. Ensure Docker Server is Running
     Before running the project, ensure that your Docker server is up and running.
@@ -62,4 +62,6 @@ Refer to the software requirements specification. <br/>
      To both command prompts and press Ctrl + C to stop the servers.
      In the terminal where Docker is running, execute the following command to clean up the running services:
 *      docker-compose down
+### III. prom-kafka Branch (Only Backend)
+Follow the Readme file in prom-kafka branch to run the code.
 
