@@ -59,9 +59,9 @@ Refer to the software requirements specification. <br/>
       * Navigate to Prometheus UI.
       * You can query the status of any 5G network by typing the matrix name.
   7. Gracefully Shut Down
-     To shut down the servers gracefully, follow these steps:
-     To both command prompts and press Ctrl + C to stop the servers.
-     In the terminal where Docker is running, execute the following command to clean up the running services:
+     * To shut down the servers gracefully, follow these steps:
+     * To both command prompts and press Ctrl + C to stop the servers.
+     * In the terminal where Docker is running, execute the following command to clean up the running services:
 *      docker-compose down
   
 ### III. prom-kafka Branch (Only Backend)
