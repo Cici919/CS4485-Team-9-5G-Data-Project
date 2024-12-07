@@ -21,3 +21,11 @@ Refer to the software requirements specification. <br/>
 - **Kafka** for data generation and consumption  
 - **Prometheus** for data scraping  
 - **Mage.ai** for building and managing machine learning pipelines
+
+## How to Run the Code
+* 1. Clone or copy our team's repository to your local machine.
+* 2. Open your command prompt or terminal.
+* 3. Navigate to the project directory where the docker-compose.yml file is located.
+* 4. Run the following command to build and start the containers:
+*      docker-compose up --build
+
