@@ -22,7 +22,7 @@ Refer to the software requirements specification. <br/>
 - **Prometheus** for data scraping  
 - **Mage.ai** for building and managing machine learning pipelines
 
-## How to Run the Different Version the Code
+## How to Run the Different Version of Code
 
 ### I. Main Branch (With simple Auth0 Authentication)
  1. Clone or copy our team's repository to your local machine.
