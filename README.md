@@ -67,7 +67,7 @@ dashboards powered by Prometheus for effective data visualization.
      * In the terminal where Docker is running, execute the following command to clean up the running services:
 *        docker-compose down
   
-### III. prom-kafka Branch (Only Backend)
+### III. prom-kafka Branch (Only Backend & No Authentication Needed )
 Follow the Readme file in prom-kafka branch to run the code.
 ## Challenges and Future Considerations<br>
 Managing real-time data flow, ensuring smooth integration between Kafka, Prometheus, and Mage, and handling Auth0 authentication presented significant challenges. To address these, we utilized Dockerized environments and relied on comprehensive troubleshooting through documentation.
